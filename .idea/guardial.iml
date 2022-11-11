@@ -1,1 +1,34 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_sms_and_phone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_sms_and_phone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_sms_and_phone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_ringtone_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_ringtone_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_ringtone_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_location_utility/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_location_utility/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dependencies/nexgen_location_utility/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_location_utility/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_location_utility/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_location_utility/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_sms_and_phone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_sms_and_phone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_sms_and_phone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_ringtone_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_ringtone_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/dependencies/nexgen_ringtone_player/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
